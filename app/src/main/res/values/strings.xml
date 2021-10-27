@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">custom_checkbox</string>
+
+    <string name="title_text">What do you wants to buy ?</string>
+
+    <string name="title_milk">Milk</string>
+
+    <string name="title_suger">Suger</string>
+
+    <string name="title_water">Water</string>
+
+    <string name="title_submit">Submit</string>
+
+    <string name="title_selected">No item are selected</string>
+
+</resources>
